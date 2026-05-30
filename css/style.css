@@ -12,3 +12,14 @@
     object-position: center;
     border-radius: 12px;
 }
+
+.description {
+    display: border-box;
+    width: 100vw;
+    padding: 5px;
+    margin: 10px;
+}
+.description.head {
+    text-align: center;
+    background-color: rgb(125, 199, 248);
+}
